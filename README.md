@@ -1,7 +1,7 @@
 ##Ola! Eu sou o YukiSukiyama
 
 - 🔭 Atualmente estou estudando linguagens em backend
-- 🌱 Estou estudando Python
+- 🌱 Estou estudando Python e Java
 - 🤔 Procuro ajudas relacionadas a problemas dentro das linguagens
 - 💬 Pode me dar dicas em relações as linguagens que atualmente estou estudando
 - 📫 Contate-me : rspsukiyama21@gmail.com
